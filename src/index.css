@@ -1,0 +1,27 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f3f3f3;
+}
+
+.MuiPaper-root ul li {
+  list-style-type: none;
+}
+
+.MuiInputBase-input {
+  font-size: 25px !important;
+}
+
+.balance {
+  color: rgb(114, 114, 114);
+  font-family: 'Roboto';
+  font-size: 13px;
+}
+.market-order {
+  font-size: 15px;
+  font-family: 'Roboto';
+  color: rgb(0, 0, 255);
+}
